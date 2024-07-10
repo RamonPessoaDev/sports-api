@@ -10,25 +10,13 @@
 git clone https://github.com/RamonPessoaDev/sports-api
 ```
 
-#### Executar o comando após clonar o projeto para instalação das dependências
-
-```sh
-yarn add
-```
-
-##### Ou
+#### Executar o comando após clonar o projeto, e abrir o mesmo, para instalação das dependências
 
 ```sh
 npm i
 ```
 
-### Compile the project locally - Compilar o projeto localmente
-
-```sh
-yarn dev
-```
-
-##### Ou
+#### Compile the project locally - Compilar o projeto localmente
 
 ```sh
 npm run dev
@@ -38,7 +26,7 @@ npm run dev
 
 ### Por padrão ao executar o projeto, ele vai rodar nesta url: `http://localhost:3333/`
 
-## Utilizando a aplicação sem Postman ou Insomnia, será possível apenas visualizar os endpoints:
+## Utilizando a aplicação sem Postman ou Insomnia, será possível apenas visualizar os seguintes endpoints:
 
 - `http://localhost:3333/activities`
 
